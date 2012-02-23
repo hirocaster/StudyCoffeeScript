@@ -1,0 +1,9 @@
+{
+  "name": "Study Buster",
+  "version": "0.0.1",
+  "engines": "0.6.11",
+  "author": "hirocaster",
+  "dependencies": {
+    "buster": "0.4.5",
+  }
+}
